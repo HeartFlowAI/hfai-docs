@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: HFAI Cloud API
+  structure:
+    - type: space
+      key: hfai-cloud-api
+      title: HFAI Cloud API
+      path: hfai-cloud-api
+      default: true
+      content:
+        directory: /
